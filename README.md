@@ -2,7 +2,9 @@
 
 Swiss with every fill drawn as a 1px outline; the focused workspace becomes an orange outline.
 
-![Preview](preview.png)
+[![Preview](https://raw.githubusercontent.com/lagz0ne/omarchy-swiss/main/docs/swiss-outline.webp)](https://github.com/lagz0ne/omarchy-swiss/releases/download/v1.0/omarchy-swiss-outline.mp4)
+
+<sub>Click the preview for the full-quality video.</sub>
 
 ## Install
 
